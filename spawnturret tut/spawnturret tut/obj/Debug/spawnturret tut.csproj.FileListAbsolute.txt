@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\spawnturret tut\spawnturret tut\obj\Debug\spawnturret_tut.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\spawnturret tut\spawnturret tut\obj\Debug\spawnturret_tut.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\spawnturret tut\spawnturret tut\obj\Debug\spawnturret tut.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\spawnturret tut\spawnturret tut\bin\Debug\spawnturret tut.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\spawnturret tut\spawnturret tut\bin\Debug\spawnturret tut.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\spawnturret tut\spawnturret tut\bin\Debug\spawnturret tut.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\spawnturret tut\spawnturret tut\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\spawnturret tut\spawnturret tut\bin\Debug\PS3Lib.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\spawnturret tut\spawnturret tut\obj\Debug\spawnturret tut.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\spawnturret tut\spawnturret tut\obj\Debug\spawnturret tut.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\spawnturret tut\spawnturret tut\obj\Debug\spawnturret tut.csprojResolveAssemblyReference.cache
